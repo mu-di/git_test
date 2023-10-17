@@ -1,3 +1,3 @@
 # git_test
 First git hub repoo
-Hello Odin!
+Hello Odin!, how are u?
